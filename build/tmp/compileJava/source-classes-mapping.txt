@@ -1,7 +1,7 @@
-com/amazon/ata/dynamodbquery/dependency/DaoModule.java
- com.amazon.ata.dynamodbquery.dependency.DaoModule
 com/amazon/ata/dynamodbquery/dao/models/CanceledInvite.java
  com.amazon.ata.dynamodbquery.dao.models.CanceledInvite
+com/amazon/ata/dynamodbquery/dependency/DaoModule.java
+ com.amazon.ata.dynamodbquery.dependency.DaoModule
 com/amazon/ata/dynamodbquery/dao/models/Member.java
  com.amazon.ata.dynamodbquery.dao.models.Member
 com/amazon/ata/dynamodbquery/activity/CreateEventAnnouncementActivity.java
@@ -20,14 +20,14 @@ com/amazon/ata/dynamodbquery/activity/GetInvitesForEventActivity.java
  com.amazon.ata.dynamodbquery.activity.GetInvitesForEventActivity
 com/amazon/ata/dynamodbquery/activity/GetInviteActivity.java
  com.amazon.ata.dynamodbquery.activity.GetInviteActivity
-com/amazon/ata/dynamodbquery/activity/CreateEventActivity.java
- com.amazon.ata.dynamodbquery.activity.CreateEventActivity
 com/amazon/ata/dynamodbquery/activity/GetMemberActivity.java
  com.amazon.ata.dynamodbquery.activity.GetMemberActivity
-com/amazon/ata/dynamodbquery/dao/InviteDao.java
- com.amazon.ata.dynamodbquery.dao.InviteDao
+com/amazon/ata/dynamodbquery/activity/CreateEventActivity.java
+ com.amazon.ata.dynamodbquery.activity.CreateEventActivity
 com/amazon/ata/dynamodbquery/activity/CreateInviteActivity.java
  com.amazon.ata.dynamodbquery.activity.CreateInviteActivity
+com/amazon/ata/dynamodbquery/dao/InviteDao.java
+ com.amazon.ata.dynamodbquery.dao.InviteDao
 com/amazon/ata/dynamodbquery/activity/GetEventAnnouncementsActivity.java
  com.amazon.ata.dynamodbquery.activity.GetEventAnnouncementsActivity
 com/amazon/ata/dynamodbquery/dao/models/Event.java
